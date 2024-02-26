@@ -1,6 +1,6 @@
 # Ultracam
 
-a simple freecam mod for Ultrakill.
+A simple freecam mod for Ultrakill.
 
 Press F5 in game to toggle freecam
 
